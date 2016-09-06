@@ -1,7 +1,7 @@
 {
   "name": "sanitize-html",
   "description": "Clean up user-submitted HTML, preserving whitelisted elements and whitelisted attributes on a per-element basis",
-  "main": "index.js",
+  "main": "dist/sanitize-html.js",
   "authors": [
     "P'unk Avenue LLC"
   ],
