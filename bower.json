@@ -22,5 +22,9 @@
     "bower_components",
     "test",
     "tests"
+  ],
+  "moduleType": [
+    "es6",
+    "globals"
   ]
 }
